@@ -1,4 +1,5 @@
-# Kotlin by Exercise: Kotlin Solutions to HackerRank Challenges
+# Kotlin by Exercise
+## Kotlin Solutions to HackerRank Challenges
 
 <img width="1600" alt="GitHub" src="https://user-images.githubusercontent.com/4990386/103525933-15544200-4e91-11eb-9f24-b30229d5eed8.png">
 
