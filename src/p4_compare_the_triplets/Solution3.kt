@@ -7,6 +7,10 @@ fun main() {
     println("${result[0]} ${result[1]}")
 }
 
+fun foo() {
+
+}
+
 fun compareTriplets3(a: Array<Int>, b: Array<Int>): Array<Int> {
     val scoreOfAlice = a.zip(b).count { it.first > it.second }
     val scoreOfBob = a.zip(b).count { it.second > it.first }

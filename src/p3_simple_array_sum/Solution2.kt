@@ -8,7 +8,9 @@ fun main() {
 fun simpleArraySum2(ar: Array<Int>): Int {
     var sum = 0
 
-    ar.forEach { sum += it }
+    ar.forEach {
+        sum += it
+    }
 
     return sum
 }
